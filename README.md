@@ -1,4 +1,4 @@
-# Kinetics
+# Kinetics & Kinematics
 Welcome to the Physics Team! This is the kinetics repository where you can (and you should ONLY) create calculators/simulations related to kinetics.
 Our primary language is Python (3.10 or 3.11) If you prefer coding with other languages, please leave me a note.
 
